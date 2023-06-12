@@ -15,7 +15,8 @@ export class DoctorsComponent implements OnInit {
   message: any;
 
   list: boolean = false;
-  card: boolean = true;
+  card: boolean = true;   
+  // checking push data
 
   Show: boolean = false;
   visible: boolean = false;
